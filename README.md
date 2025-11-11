@@ -18,9 +18,9 @@ It follows the assignment guidelines to ensure:
 ---
 ## Requirements
 - Python 3.10+
-- Clone the repository:
+- Clone the repository: 
   ```bash
-  git clone https://github.com/<your-username>/roof-order-extraction.git
+  git clone https://github.com/nageshkharat/-ROOFING-WORK-ORDER.git
   cd roof-order-extraction
 - Install dependencies:
   ```bash
